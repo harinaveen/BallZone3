@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="358709d58d9c21d7621651a3de54d9b897f84ae7">
+        <dex dex="/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_2fbf121d69f6979bd9cf20c2601e1b8384622fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dab1e2052c4f328dee1194ab6caba02731a9726d">
+        <dex dex="/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/pre-dexed/debug/instant-run_5de9a5d57e54073e25f309e4bbf1df97f1a831f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/naveen/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_d957c1253c8a98e86daa825b55eb1d95677e88ea.jar" />
+    </item>
+
+</items>

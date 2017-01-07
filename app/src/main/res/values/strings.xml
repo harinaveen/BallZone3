@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BallZone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_one">One</string>
+    <string name="title_activity_about_game">AboutGame</string>
+    <string name="title_activity_level">PlayZone</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_high_score">BallZone</string>
+    <string name="title_activity_level1">LevelOne</string>
+    <string name="title_activity_level2">LevelTwo</string>
+    <string name="title_activity_level3">LevelThree</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BallZone</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_about_game">AboutGame</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="title_activity_high_score">BallZone</string>
+    <string name="title_activity_level">PlayZone</string>
+    <string name="title_activity_level1">LevelOne</string>
+    <string name="title_activity_level2">LevelTwo</string>
+    <string name="title_activity_level3">LevelThree</string>
+    <string name="title_activity_one">One</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

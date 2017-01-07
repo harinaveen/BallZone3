@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/android.jpg",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/drawable-hdpi/android.jpg"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.jpg",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/drawable-hdpi/ic_launcher.jpg"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/myphoto1.jpg",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/drawable-hdpi/myphoto1.jpg"
+    }
+]

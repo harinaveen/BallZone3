@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/layout/activity_high_score.xml",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/layout/activity_high_score.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/layout/activity_level3.xml",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/layout/activity_level3.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/layout/activity_about_game.xml",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/layout/activity_about_game.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/layout/activity_about_us.xml",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/layout/activity_level1.xml",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/layout/activity_level1.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/layout/activity_one.xml",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/layout/activity_one.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/layout/activity_level2.xml",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/layout/activity_level2.xml"
+    },
+    {
+        "merged": "/home/naveen/AndroidStudioProjects/BallZone3/app/build/intermediates/res/merged/debug/layout/activity_level.xml",
+        "source": "/home/naveen/AndroidStudioProjects/BallZone3/app/src/main/res/layout/activity_level.xml"
+    }
+]
